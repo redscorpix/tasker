@@ -5,11 +5,23 @@
   "engines": {
     "node": ">=0.8"
   },
+  "author": {
+    "name": "Vladislav Yakovlev"
+  },
   "dependencies": {
     "async": ">=0.1.22"
   },
+  "main": "./lib/tasker.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/redscorpix/tasker.git"
-  }
+  },
+  "readme": "tasker\n======",
+  "readmeFilename": "README.md",
+  "_id": "tasker@0.0.1",
+  "description": "tasker ======",
+  "dist": {
+    "shasum": "259f0b9ec23a9d407466f86ad8a3b449cc39c402"
+  },
+  "_from": "tasker@git://github.com/redscorpix/tasker.git"
 }
